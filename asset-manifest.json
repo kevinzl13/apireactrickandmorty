@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/apireactrickandmorty/static/js/main.bc21b77b.js",
+    "index.html": "/apireactrickandmorty/index.html",
+    "main.bc21b77b.js.map": "/apireactrickandmorty/static/js/main.bc21b77b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bc21b77b.js"
+  ]
+}
